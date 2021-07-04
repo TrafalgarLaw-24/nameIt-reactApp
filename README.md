@@ -2,4 +2,4 @@
 
 A starter project!!
 
-https://trafalgarlaw-24.github.io/nameIt-reactApp/
+<a target="_blank" rel="noreferrer" href="https://trafalgarlaw-24.github.io/nameIt-reactApp/">App link</a>
